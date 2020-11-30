@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Forget me too ft. Halsey",
+    "artist": "Machine Gun Kelly",
+    "img_src": "./images/song-1.jpg",
+    "src": "./music/on-n-on.mp3"
+  },
+  {
+    "title": "Don't Forget Me Soon",
+    "artist": "Li Kelly",
+    "img_src": "/images/song-2.jpg",
+    "src": "./music/somebody-new.mp3"
+  },
+  {
+    "title": "I have forgotten you",
+    "artist": "Lil Kid",
+    "img_src": "./images/song-3.jpg",
+    "src": "./music/on-n-on.mp3"
+  },
+  {
+    "title": "Let move on",
+    "artist": "Kendric Lam",
+    "img_src": "./images/song-4.jpg",
+    "src": "./music/somebody-new.mp3"
+  }
+]
